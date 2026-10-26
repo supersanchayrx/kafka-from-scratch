@@ -1,0 +1,14 @@
+# Build output
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Broker data directories and benchmark scratch
+data/
+
+# Local build notes
+context-docs/
